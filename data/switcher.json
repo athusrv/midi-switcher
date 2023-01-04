@@ -1,0 +1,13 @@
+{
+    "count": 2,
+    "switchers": {
+        "1": {
+            "pin": 2,
+            "dimmer": false
+        },
+        "2": {
+            "pin": 4,
+            "dimmer": false
+        }
+    }
+}
